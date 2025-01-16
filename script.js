@@ -1,2 +1,3 @@
 // website loaded?
-console.log("👍 Okay");
+// 🛑 No JavaScript for this Project
+console.log("🛑 No JavaScript for this Project");
