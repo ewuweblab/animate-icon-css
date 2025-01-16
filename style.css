@@ -8,3 +8,9 @@ body {
     background: lightgray;
 }
   
+/* vertical and horizontal centering */
+body {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
