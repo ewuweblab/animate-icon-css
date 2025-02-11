@@ -8,9 +8,9 @@
 * Use SVG icons in your future projects
 
 ## How?
-* Use CSS `@keyframes` to define animations
-* Use `transform` and `transition` properties to animate SVG elements
-* Use `animation` property to apply animations to SVG elements
+* Use GSAP aka GreenSock Animation library to apply CSS animations
+* Use JavaScript to reduce quirks of CSS animations
+* Use GSAP dev tools
 
 ## Citations
 * Icons from [Lucide](https://lucide.dev/)
