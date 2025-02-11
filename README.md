@@ -1,4 +1,4 @@
-# Animate SVG Icons with CSS
+# Animated Icon Set
 
 ## Why? 
 * Understand the parts of SVG elements that can be animated
@@ -14,7 +14,7 @@
 
 ## Citations
 * Icons from [Lucide](https://lucide.dev/)
-* [Animate CSS](https://daneden.github.io/animate.css/)
+* Use [GreenSock](https://greensock.com/) animation library
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
 
 
